@@ -21,3 +21,19 @@ If you would like to update your submission status please find your file in `Sub
 |[Morris Richman](https://mcrich23.com)|[GitHub](https://github.com/Mcrich23/Anchor)|[Video](https://github.com/user-attachments/assets/beb6a3f1-38db-4475-8765-00a0d28a4164)|SwiftUI, Speech, CoreHaptics, PencilKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
 ##### Total: 2 | Awarded: 0
+
+## Simple Calculator (CLI)
+Ich habe einen simplen Rechner als Python-CLI hinzugefügt.
+
+### Datei
+- `calculator.py`
+
+### Features
+- Grundrechenarten: `+`, `-`, `*`, `/`
+- Fehlerbehandlung für ungültige Operatoren
+- Schutz vor Division durch 0
+
+### Starten
+```bash
+python3 calculator.py
+```
